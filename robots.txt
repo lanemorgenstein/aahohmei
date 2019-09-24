@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aejeiraimi.jotter.io/sitemap.xml
